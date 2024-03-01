@@ -2,6 +2,9 @@ import requests
 import time
 import random
 import json
+import pandas as pd
+import numpy as np
+import plotly
 # Add a navbar to switch from one page to the other
 from taipy.gui import Gui, navigate, notify
 
@@ -47,9 +50,11 @@ page1_md="""
 
 
 
-## Page 1 - Deck Statistics
+## General Deck Calculations
 
 <|toggle|theme|>
+
+This page is designed to provide baseline information about the 
 
 <|layout|columns=1 1|
 <|
@@ -79,28 +84,10 @@ Average: <|{average}|>
 
 """
 
-
 #Page 2 combos
 # ====================================================================================
-
-
-# ====================================================================================
-
-
-page2_md="""
-
-
-
-## This is page 2
-
-
-"""
-
-
-
-#Page 3 combos
-# ====================================================================================
-cardname = "Solve the Equation"
+cardnamelist = ["Flickerwisp", "Worldfire","Solve the Equation", "Kangee, Sky Warden","Moorland Haunt", "Gavony Township", "Archon of Coronation", "Kiora Bests the Sea God", "Swamp", "Silverquill Command", "Sol Ring", "Black Lotus"]
+cardname = random.choice(cardnamelist)
 def scryfall_q(query, name = True,expac=False ):
 
     
@@ -138,18 +125,22 @@ def scryfall_q(query, name = True,expac=False ):
 
     nm = response_data["data"][0]["name"]
     cmc = response_data["data"][0]["cmc"]
-    manacost = response_data["data"][0]["mana_cost"]
     typ = response_data["data"][0]["type_line"]
     oracle = response_data["data"][0]["oracle_text"]
+    url = response_data["data"][0]["image_uris"]["large"]
+
+
+    if "Land" in typ:
+        manacost = "None"
+    else:
+        manacost = response_data["data"][0]["mana_cost"]
+
     if "Creature" in typ:
         power = response_data["data"][0]["power"]
         toughness = response_data["data"][0]["toughness"]
     else:
         power = "None"
         toughness = "None"
-    url = response_data["data"][0]["image_uris"]["large"]
-    # if response_data:
-    #     print(json.dumps(response_data, indent=4))  
         
     return nm, cmc, manacost, typ, oracle, power, toughness, url
 
@@ -183,7 +174,7 @@ def on_change(state, var_name, var_value):
 
 # ====================================================================================
 
-page3_md="""
+page2_md="""
 
 
 ## Scryfall API
@@ -214,6 +205,9 @@ Name:  <|{nm}|>
 CMC:  <|{cmc}|>
 <br/> <br/> 
 
+Mana Cost:  <|{manacost}|>
+<br/> <br/> 
+
 Type:  <|{typ}|>
 <br/> <br/> 
 
@@ -236,6 +230,166 @@ Printed Card:
 #Image display  <|{url}|image|>
 #link: <a href:{url}>URL</a>
 # <|Run API|button|on_action=buttonpress|>
+
+
+
+
+
+
+
+#Page 3 combos
+# ====================================================================================
+cardcsv = None
+carddf = pd.DataFrame()
+carddf["Card Name"] =  "None"
+carddf["Converted Mana Cost"] = "None"
+carddf["Mana Cost"] =  "None"
+carddf["Type"] = "None"
+carddf["Oracle Text"] =  "None"
+carddf["Power (if creature)"] =  "None"
+carddf["Toughness (if creature)"] = "None"
+
+namelist, cmclist, manalist, typlist, oraclelist, powerlist, toughnesslist = [],[],[],[],[],[],[]
+
+def testfunc(state):
+    print(state.cardcsv)
+    if ".csv" in state.cardcsv:
+        df = pd.read_csv(state.cardcsv)
+    if ".xlsx" in state.cardcsv:
+        df = pd.read_excel(state.cardcsv)
+
+    notify(state,"info", "Loading Card information, please wait a few seconds.")
+
+    for i in df[df.columns[0]]:
+        print(i)
+        try:
+            nm, cmc, manacost, typ, oracle, power, toughness, url = scryfall_q(i)
+        except: 
+            namelist.append(i)
+            cmclist.append("Error")
+            manalist.append("Error")
+            typlist.append("Error")
+            oraclelist.append("Error")
+            powerlist.append("Error")
+            toughnesslist.append("Error")
+            continue
+        # print(nm, cmc, manacost, typ, oracle, power, toughness, url)
+        state.namelist.append(nm)
+        state.cmclist.append(cmc)
+        state.manalist.append(manacost)
+        state.typlist.append(typ)
+        state.oraclelist.append(oracle)
+        state.powerlist.append(power)
+        state.toughnesslist.append(toughness)
+
+    # print(cmclist, manalist, typlist, oraclelist, powerlist, toughnesslist)
+    df2 = pd.DataFrame()
+    df2["Card Name"] = state.namelist
+    df2["Converted Mana Cost"] = state.cmclist
+    df2["Mana Cost"] = state.manalist
+    df2["Type"] = state.typlist
+    df2["Oracle Text"] = state.oraclelist
+    df2["Power (if creature)"] = state.powerlist
+    df2["Toughness (if creature)"] = state.toughnesslist
+
+    state.carddf = df2
+
+    return
+    
+
+def analysis(state):
+    print("Button pressed")
+
+
+
+    #Mana Analysis
+    notify(state, "info", "Now running analyses on Manabase")
+    time.sleep(3)
+
+    #Mana Curve Analysis
+    notify(state, "info", "Now running analysis on Mana Curve")
+    time.sleep(3)
+
+    #Analysis of card types
+    notify(state, "info", "Now running analysis of card types")
+    time.sleep(3)
+
+    #Analysis of card usages 
+    notify(state, "info", "Now running card usage analysis")
+    time.sleep(3)
+
+
+
+
+    return
+
+# ====================================================================================
+
+
+page3_md="""
+
+
+
+### Deck Uploads
+
+<|layout|columns=1 1|
+<| 
+Please upload a csv of your deck in the following file uploader. You should see it detailed below. Please format your csv to just be a list of card names. 
+|>
+
+<| 
+<|{cardcsv}|file_selector|label=Select File|on_action=testfunc|extensions=.csv,.xlsx|drop_message=Drop Message|>
+|>
+
+|>
+<br/> <br/>
+
+
+<|{carddf}|table|rebuild|editable=True|page_size=10|filter[Card Name]=True|filter[Converted Mana Cost]=True|filter[Mana Cost]=True|filter[Type]=True|filter[Power (if creature)]=True|filter[Toughness (if creature)]=True|>
+
+
+<br/> <br/>
+
+<|layout|columns=1 1|
+
+<| 
+Once the information within your deck above appears correctly, you can press the button on the right to run some baseline analysis of your deck.
+|>
+
+<| 
+<|Show Deck Analyses|button|on_action=analysis|>
+|>
+
+|>
+
+<br/> <br/>
+
+
+
+
+
+
+
+
+"""
+
+
+
+
+
+
+
+# <|Update Card|button|on_action=action3|> 
+
+
+
+
+
+
+
+
+
+
 
 
 def on_menu(state, action, info):
