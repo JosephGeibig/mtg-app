@@ -5,7 +5,6 @@ import json
 import pandas as pd
 import numpy as np
 import plotly
-# Add a navbar to switch from one page to the other
 from taipy.gui import Gui, navigate, notify
 
 root_md="<|menu|label=Menu|lov={[('Page-1', 'Page 1'), ('Page-2', 'Page 2'), ('Page-3', 'Page 3')]}|on_action=on_menu|>"
