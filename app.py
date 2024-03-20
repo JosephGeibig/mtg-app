@@ -5,7 +5,7 @@ import json
 import pandas as pd
 import numpy as np
 import plotly
-from taipy.gui import Gui, navigate, notify
+from taipy.gui import Gui, navigate, notify, download
 
 root_md="<|menu|label=Menu|lov={[('Page-1', 'Page 1'), ('Page-2', 'Page 2'), ('Page-3', 'Page 3')]}|on_action=on_menu|>"
 
@@ -249,49 +249,98 @@ carddf["Power (if creature)"] =  "None"
 carddf["Toughness (if creature)"] = "None"
 
 namelist, cmclist, manalist, typlist, oraclelist, powerlist, toughnesslist = [],[],[],[],[],[],[]
+cardcountlist, namelist, expaclist, setlist, foillist = None,None,None,None,None
 
 def testfunc(state):
     print(state.cardcsv)
     if ".csv" in state.cardcsv:
-        df = pd.read_csv(state.cardcsv)
+        df = pd.read_csv(state.cardcsv, header = None, names = ["cards"])
     if ".xlsx" in state.cardcsv:
-        df = pd.read_excel(state.cardcsv)
+        df = pd.read_excel(state.cardcsv, header = None, names = ["cards"])
 
     notify(state,"info", "Loading Card information, please wait a few seconds.")
+    newdf = pd.DataFrame()
+    cardcount, name, expac, number, foil = [],[],[],[],[]
+    #1 Slimefoot, the Stowaway (CMM) 686 *F*
 
-    for i in df[df.columns[0]]:
-        print(i)
-        try:
-            nm, cmc, manacost, typ, oracle, power, toughness, url = scryfall_q(i)
-        except: 
-            namelist.append(i)
-            cmclist.append("Error")
-            manalist.append("Error")
-            typlist.append("Error")
-            oraclelist.append("Error")
-            powerlist.append("Error")
-            toughnesslist.append("Error")
-            continue
-        # print(nm, cmc, manacost, typ, oracle, power, toughness, url)
-        state.namelist.append(nm)
-        state.cmclist.append(cmc)
-        state.manalist.append(manacost)
-        state.typlist.append(typ)
-        state.oraclelist.append(oracle)
-        state.powerlist.append(power)
-        state.toughnesslist.append(toughness)
+    #Loading the cards as god intended
+    for i in df["cards"]:
+        row = i.split(" ")
+        cardcount.append(row[0])
+        val = 0
+        for i in row:
+            if "(" in i:
+                break
+            val += 1
 
-    # print(cmclist, manalist, typlist, oraclelist, powerlist, toughnesslist)
-    df2 = pd.DataFrame()
-    df2["Card Name"] = state.namelist
-    df2["Converted Mana Cost"] = state.cmclist
-    df2["Mana Cost"] = state.manalist
-    df2["Type"] = state.typlist
-    df2["Oracle Text"] = state.oraclelist
-    df2["Power (if creature)"] = state.powerlist
-    df2["Toughness (if creature)"] = state.toughnesslist
+        cardname = ""
+        # print(row, val)
+        for i in range(val):
+            if i + 1 < val:
+                cardname = cardname + " " + row[i+1]
+            if i+1 == val:
+                break
+        name.append(cardname)
+        
 
-    state.carddf = df2
+        xpc = row[val]
+        xpcs = xpc.split(")")
+        xpcs = xpcs[0].split("(")
+       
+
+        expac.append(xpcs[1])
+
+
+        number.append(row[val + 1])
+
+        # print(row, val, len(row))
+        if val + 3 == len(row):
+            foil.append(1)
+        else:
+            foil.append(0)
+
+    newdf["Count"] = cardcount
+    newdf["Name"] = name
+    newdf["Expansion"] = expac
+    newdf["setnumber"] = number
+    newdf["foil"] = foil
+
+    state.cardcountlist = cardcount
+    state.namelist = name
+    state.expaclist = expac
+    state.setlist = number
+    state.foillist = foil 
+
+    print(newdf.head())
+
+    #pulling the data from scryfall with the set number and xpac code and card name
+
+    def scryfall_advanced(set_code, collector_number, card_name):
+        url = f"https://api.scryfall.com/cards/{set_code.lower()}/{collector_number}"
+        response = requests.get(url)
+        if response.status_code == 200:
+            response_data = response.json()
+            # assert(response_data["name"] == card_name, "Names dont match")
+            return response_data
+        
+
+    for i in range(len(newdf[newdf.columns[0]])):
+        set_code = newdf["Expansion"].iloc[i]
+        collect_num = newdf["setnumber"].iloc[i]
+        cname = newdf["Name"].iloc[i]
+        card_data = scryfall_advanced(set_code, collect_num, cname)
+        print(card_data["name"])
+        print(card_data["cmc"])
+        print(card_data["type_line"])
+        print(card_data["oracle_text"])
+        print(card_data["image_uris"]["large"])
+    
+        if i == 1:
+            break
+
+
+
+
 
     return
     
@@ -322,6 +371,16 @@ def analysis(state):
 
     return
 
+
+exampletable = {
+    "Quantity": [1, 1, 12],
+    "Card": ["Esior, Wardwing Familiar", "Ishai, Ojutai Dragonspeaker", "Plains"]
+}
+columns = ["Quantity", "Card"]
+
+def download_deck(state):
+    download(state, content = "decktest3.csv", name = "decklist.csv")
+downloadfile = None
 # ====================================================================================
 
 
@@ -333,14 +392,20 @@ page3_md="""
 
 <|layout|columns=1 1|
 <| 
-Please upload a csv of your deck in the following file uploader. You should see it detailed below. Please format your csv to just be a list of card names. 
+Please upload a csv of your deck in the following file uploader. You should see it detailed below. Please format your csv to just be a list of card names. An example of how you should format this is shown below. 
+<br/> <br/>
+Note: The easiest way to download your deck as a csv is with moxfield or archidekt. This is specifically designed to work with moxfield lists.
 |>
 
 <| 
 <|{cardcsv}|file_selector|label=Select File|on_action=testfunc|extensions=.csv,.xlsx|drop_message=Drop Message|>
+<br/> <br/> <br/>
+<|{downloadfile}|file_download|label=Download File|on_action=download_deck|>
 |>
 
 |>
+<br/>
+<|{exampletable}|table|show_all|>
 <br/> <br/>
 
 
