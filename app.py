@@ -9,6 +9,18 @@ from taipy.gui import Gui, navigate, notify, download
 
 root_md="<|menu|label=Menu|lov={[('Page-1', 'Page 1'), ('Page-2', 'Page 2'), ('Page-3', 'Page 3')]}|on_action=on_menu|>"
 
+########## Things This needs
+
+## - Updated calculators for deck information
+
+## - Visualizations for deck info
+
+## - Analysis for deck info
+
+## - Updated formatting 
+
+
+
 
 #Page 1 combos
 # ====================================================================================
