@@ -1,526 +1,526 @@
 ,Card,Tags
-29,Circle of Protection: Blue,[]
-30,Circle of Protection: Green,[]
-31,Circle of Protection: Red,[]
-32,Circle of Protection: White,[]
-75,Fire Elemental,[]
-94,Gray Ogre,[]
-102,Holy Strength,[]
-113,Ironroot Treefolk,[]
-164,Pearled Unicorn,[]
-198,Scathe Zombies,[]
-241,Unholy Strength,[]
-260,Water Elemental,[]
-273,Circle of Protection: Black,[]
-362,Circle of Protection: Artifacts,[]
-408,Staff of Zegon,[]
-456,Barbary Apes,[]
-482,Crimson Kobolds,[]
-484,Crookshank Kobolds,[]
-495,Divine Transformation,[]
-549,Hell Swarm,[]
-660,Shield Wall,[]
-781,Goblin Hero,[]
-798,Marsh Gas,[]
-824,Scarwood Goblins,[]
-889,Goblin Warrens,[]
-909,Icatian Town,[]
-1045,Forbidden Lore,[]
-1212,Scaled Wurm,[]
-1262,Tor Giant,[]
-1341,Dwarven Trader,[]
-1462,Helm of Obedience,[]
-1463,Inheritance,[]
-1464,Insidious Bookworms,[]
-1581,Benthic Djinn,[]
-1967,Ogre Enforcer,[]
-2098,Gorilla Warrior,[]
-2208,Aura of Silence,[]
-2390,Circle of Protection: Shadow,[]
-2494,Lowland Giant,[]
-2552,Reflecting Pool,[]
-2559,Rootwalla,[]
-2633,Trained Armodon,[]
-2709,Lab Rats,[]
-2872,Plated Rootwalla,[]
-2941,Barbtooth Wurm,[]
-2943,Bear Cub,[]
-2953,Dakmor Scorpion,[]
-2963,Goblin Cavaliers,[]
-2974,Golden Bear,[]
-2991,Obsidian Giant,[]
-2997,Plated Wurm,[]
-3092,Coral Merfolk,[]
-3106,Disciple of Grace,[]
-3128,Faith Healer,[]
-3202,Opal Gargoyle,[]
-3212,Peregrine Drake,[]
-3242,Rune of Protection: Artifacts,[]
-3243,Rune of Protection: Black,[]
-3244,Rune of Protection: Blue,[]
-3245,Rune of Protection: Green,[]
-3246,Rune of Protection: Lands,[]
-3247,Rune of Protection: Red,[]
-3248,Rune of Protection: White,[]
-3347,About Face,[]
-3387,Giant Cockroach,[]
-3455,Snap,[]
-3521,Forest Bear,[]
-3534,"Kongming, ""Sleeping Dragon""",[]
-3550,"Pang Tong, ""Young Phoenix""",[]
-3575,Southern Elephant,[]
-3589,Trained Jackal,[]
-3690,Hulking Ogre,[]
-3794,Silverback Ape,[]
-3823,Boa Constrictor,[]
-3909,Game Preserve,[]
-4075,Tectonic Break,[]
-4109,Wild Jhovall,[]
-4356,Scoria Cat,[]
-4370,Spur Grappler,[]
-4541,Ordered Migration,[]
-4614,Skittish Kavu,[]
-4696,Wayfaring Giant,[]
-4790,Planar Overlay,[]
-5114,Gorilla Titan,[]
-5175,Nantuko Disciple,[]
-5648,Charging Slateback,[]
-5956,Enormous Baloth,[]
-6064,Astral Steel,[]
-6128,Hunting Pack,[]
-6201,Alpha Myr,[]
-6318,Lumengrid Warden,[]
-6355,Omega Myr,[]
-6372,Raise the Alarm,[]
-6458,Vulshok Gauntlets,[]
-6674,Dross Crocodile,[]
-6695,Goblin Brawler,[]
-6726,Myr Quadropod,[]
-6904,Kami of Old Stone,[]
-6970,Order of the Sacred Bell,[]
-6997,River Kaijin,[]
-7065,Wandering Ones,[]
-7074,Akki Raider,[]
-7104,Frost Ogre,[]
-7112,Gnarled Mass,[]
-7147,"Mannichi, the Fevered Dream",[]
-7208,Tendo Ice Bridge,[]
-7653,Veteran Armorer,[]
-7718,Ghost Warden,[]
-7817,Streetbreaker Wurm,[]
-8089,Krovikan Scoundrel,[]
-8100,Martyr of Spores,[]
-8228,Empty the Warrens,[]
-8293,Living End,[]
-8528,Merfolk Thaumaturgist,[]
-8567,Saltfield Recluse,[]
-8803,Axegrinder Giant,[]
-9121,Indomitable Ancients,[]
-9304,Gloomwidow,[]
-9357,Merrow Grimeblotter,[]
-9373,Old Ghastbark,[]
-9461,Torpor Dust,[]
-9716,Cylian Elf,[]
-9723,Dragon Fodder,[]
-9725,Dreg Reaver,[]
-9763,Incurable Ogre,[]
-9766,Jhessian Lookout,[]
-9910,Canyon Minotaur,[]
-9933,Exotic Orchard,[]
-9942,Fusion Elemental,[]
-9970,Matca Rioters,[]
-9984,Parasitic Strix,[]
-9998,Scattershot Archer,[]
-10011,Spore Burst,[]
-10022,Valiant Guard,[]
-10082,Glory of Warfare,[]
-10088,Grizzled Leotau,[]
-10212,Elite Vanguard,[]
-10250,Oakenform,[]
-10260,Runeclaw Bear,[]
-10265,Siege Mastodon,[]
-10268,Silvercoat Lion,[]
-10285,Warpath Ghoul,[]
-10290,Zombie Goliath,[]
-10324,Cobra Trap,[]
-10390,Kraken Hatchling,[]
-10430,Pillarfield Ox,[]
-10460,Shatterskull Giant,[]
-10504,Vastwood Gorger,[]
-10549,Death's Shadow,[]
-10552,Dread Statuary,[]
-10555,Explore,[]
-10560,Goblin Roughrider,[]
-10587,Leatherback Baloth,[]
-10617,Ruthless Cullblade,[]
-10753,Jwari Scuttler,[]
-10790,Nema Siltlurker,[]
-10882,Armored Cancrix,[]
-10887,Barony Vampire,[]
-10889,Blood Tithe,[]
-10936,Maritime Guard,[]
-10943,Nether Horror,[]
-10966,Stone Golem,[]
-11092,Memnite,[]
-11132,Razorfield Thresher,[]
-11247,Hexplate Golem,[]
-11263,Master's Call,[]
-11279,Ogre Resister,[]
-11559,Amphin Cutthroat,[]
-11564,Armored Warhorse,[]
-11571,Bonebreaker Giant,[]
-11625,Rusted Sentinel,[]
-11703,Darkthicket Wolf,[]
-11730,Fortress Crab,[]
-11763,Hysterical Blindness,[]
-11774,Kindercatch,[]
-11825,Riot Devils,[]
-11828,Rotting Fensnake,[]
-11831,Scourge of Geier Reach,[]
-11888,Walking Corpse,[]
-11911,Chant of the Skifsang,[]
-11945,Gather the Townsfolk,[]
-11969,Hollowhenge Beast,[]
-12003,Russet Wolves,[]
-12004,Sanctuary Cat,[]
-12184,Nettle Swine,[]
-12193,Raging Poltergeist,[]
-12196,Renegade Demon,[]
-12254,Vorstclaw,[]
-12257,Wildwood Geist,[]
-12365,Show of Valor,[]
-12402,Aquus Steed,[]
-12412,Axebane Stag,[]
-12428,Catacomb Slug,[]
-12437,Cobblebrute,[]
-12481,Goblin Rally,[]
-12573,Slime Molding,[]
-12714,Gutter Skulk,[]
-12786,Ruination Wurm,[]
-12846,Wight of Precinct Six,[]
-12853,Advent of the Wurm,[]
-12857,Armored Wolf-Rider,[]
-13042,Hive Stirrings,[]
-13049,Kalonian Tusker,[]
-13059,Minotaur Abomination,[]
-13067,Regathan Firecat,[]
-13070,Rumbling Baloth,[]
-13096,Undead Minotaur,[]
-13139,Borderland Minotaur,[]
-13178,Felhide Minotaur,[]
-13242,Pheres-Band Centaurs,[]
-13275,Silent Artisan,[]
-13301,Traveling Philosopher,[]
-13304,Triton Shorethief,[]
-13323,Yoked Ox,[]
-13402,Cyclops of One-Eyed Pass,[]
-13440,Great Hart,[]
-13519,Swordwise Centaur,[]
-13586,Flurry of Horns,[]
-13635,Oreskos Swiftclaw,[]
-13650,Revel of the Fallen God,[]
-13656,Rotted Hulk,[]
-13887,Witch's Familiar,[]
-13906,Alpine Grizzly,[]
-13981,Hordeling Outburst,[]
-14066,Siegecraft,[]
-14079,Summit Prowler,[]
-14086,Take Up Arms,[]
-14100,Tusked Colossodon,[]
-14114,Wetland Sambar,[]
-14228,Feral Krushok,[]
-14241,Gore Swine,[]
-14243,Great-Horn Krushok,[]
-14344,Aerie Bowmasters,[]
-14350,Ancient Carp,[]
-14377,Colossodon Yearling,[]
-14379,Conifer Strider,[]
-14380,Contradict,[]
-14381,Corpseweft,[]
-14382,Crater Elemental,[]
-14383,Cunning Breezedancer,[]
-14517,Secure the Wastes,[]
-14603,Chandra's Ignition,[]
-14606,Clash of Wills,[]
-14751,Whirler Rogue,[]
-14790,Broodhunter Wurm,[]
-14810,Dampening Pulse,[]
-14842,Grovetender Druids,[]
-14843,Gruesome Slaughter,[]
-14844,Guardian of Tazeem,[]
-14845,Guul Draz Overseer,[]
-14846,Hagra Sharpshooter,[]
-14866,Lavastep Raider,[]
-15048,Allied Reinforcements,[]
-15049,Ancient Crab,[]
-15060,Canopy Gorger,[]
-15262,Convicted Killer // Branded Howler,[]
-15277,Devilthorn Fox,[]
-15333,Hinterland Logger // Timber Shredder,[]
-15338,Hulking Devil,[]
-15416,Second Harvest,[]
-15417,Senseless Rage,[]
-15431,Solitary Hunter // One of the Pack,[]
-15454,Thornhide Wolves,[]
-15499,Bold Impaler,[]
-15546,"Emrakul, the Promised End",[]
-15553,Falkenrath Reaver,[]
-15554,Field Creeper,[]
-15571,Graf Rats,[]
-15683,Wolfkin Bond,[]
-15805,Cowl Prowler,[]
-15808,Curio Vendor,[]
-15874,Inventors' Fair,[]
-15921,Prakhata Club Security,[]
-15946,Servo Exhibition,[]
-15964,Tasseled Dromedary,[]
-15965,Terrain Elemental,[]
-15966,Territorial Gorger,[]
-15967,Terror of the Fairgrounds,[]
-16082,Bastion Enforcer,[]
-16152,Lathnu Sailback,[]
-16175,Peacewalker Colossus,[]
-16182,Prizefighter Construct,[]
-16278,Colossapede,[]
-16306,Dune Beetle,[]
-16356,Hyena Pack,[]
-16454,Those Who Serve,[]
-16507,Champion of Wits,[]
-16513,Crash Through,[]
-16514,Crested Sunmare,[]
-16517,Cunning Survivor,[]
-16519,Dauntless Aven,[]
-16520,Defiant Khenra,[]
-16526,Desert's Hold,[]
-16532,Dreamstealer,[]
-16536,Dutiful Servants,[]
-16544,Fraying Sanity,[]
-16545,Frilled Sandwalla,[]
-16557,Hashep Oasis,[]
-16559,Hollow One,[]
-16638,Striped Riverwinder,[]
-16639,Struggle // Survive,[]
-16640,Sunscourge Champion,[]
-16641,Sunset Pyramid,[]
-16642,Supreme Will,[]
-16643,Survivors' Encampment,[]
-16644,Swarm Intelligence,[]
-16645,Tenacious Hunter,[]
-16646,The Locust God,[]
-16647,The Scarab God,[]
-16648,The Scorpion God,[]
-16649,Thorned Moloch,[]
-16650,Torment of Hailfire,[]
-16651,Torment of Scarabs,[]
-16652,Torment of Venom,[]
-16653,Tragic Lesson,[]
-16654,Uncage the Menagerie,[]
-16655,Unconventional Tactics,[]
-16656,"Unesh, Criosphinx Sovereign",[]
-16664,Wasp of the Bitter End,[]
-16693,"Kess, Dissident Mage",[]
-16727,Ancient Brontodon,[]
-16802,Frenzied Raptor,[]
-16803,Gilded Sentinel,[]
-16812,Headwater Sentries,[]
-16842,Looming Altisaur,[]
-16869,Queen's Bay Soldier,[]
-16876,Raptor Companion,[]
-16991,Canal Monitor,[]
-17011,Dusk Charger,[]
-17068,Orazca Frillback,[]
-17069,Orazca Raptor,[]
-17109,Spire Winder,[]
-17116,Sun-Collared Raptor,[]
-17119,Swab Goblin,[]
-17174,Cabal Evangel,[]
-17259,Knight of New Benalia,[]
-17294,Primordial Wurm,[]
-17305,Saproling Migration,[]
-17350,Tolarian Scholar,[]
-17466,Armored Whirl Turtle,[]
-17476,Ferocious Zheng,[]
-17478,Hardened-Scale Armor,[]
-17482,Leopard-Spotted Jiao,[]
-17495,Aegis of the Heavens,[]
-17515,Bogstomper,[]
-17556,Gigantosaurus,[]
-17577,Knight's Pledge,[]
-17794,Douser of Lights,[]
-17805,Fearless Halberdier,[]
-17964,Wild Ceratok,[]
-17965,Wishcoin Crab,[]
-17987,Axebane Beast,[]
-18052,Feral Maaka,[]
-18122,Prowling Caracal,[]
-18171,Slimebind,[]
-18200,Tin Street Dodger,[]
-18308,Goblin Assailant,[]
-18331,Ironclad Krovod,[]
-18593,Recruit the Worthy,[]
-18647,Trumpeting Herd,[]
-18717,Colossus Hammer,[]
-18722,Dark Remedy,[]
-18758,Imperial Outrider,[]
-19231,Eidolon of Inspiration,[]
-19333,Phalanx Tactics,[]
-19450,Flawless Maneuver,[]
-19499,Aegis Turtle,[]
-19747,Basri Ket,[]
-19938,Release the Dogs,[]
-20040,Highborn Vampire,[]
-20090,Murasa Brute,[]
-20206,Windrider Wizard,[]
-20441,Clarion Spirit,[]
-20442,Cleaving Reaper,[]
-20443,Codespell Cleric,[]
-20444,Colossal Plow,[]
-20445,"Cosima, God of the Voyage // The Omenkeel",[]
-20471,Dwarven Reinforcements,[]
-20620,"Sigrid, God-Favored",[]
-20622,Skemfar Elderhall,[]
-20624,Skull Raid,[]
-20626,Snakeskin Veil,[]
-20668,Vengeful Reaper,[]
-20717,Inkshield,[]
-20731,Pest Infestation,[]
-20766,Ageless Guardian,[]
-20808,Curate,[]
-20817,"Dina, Soul Steeper",[]
-20825,Dueling Coach,[]
-20826,Eager First-Year,[]
-20827,Ecological Appreciation,[]
-20828,Efreet Flamepainter,[]
-20829,Elemental Expressionist,[]
-20900,Magma Opus,[]
-20985,Spined Karok,[]
-21023,Verdant Mastery,[]
-21038,Aeromoeba,[]
-21061,Bone Shards,[]
-21074,Carth the Lion,[]
-21075,"Chatterfang, Squirrel General",[]
-21076,Chatterstorm,[]
-21085,Damn,[]
-21089,Dermotaxi,[]
-21094,Dragon's Rage Channeler,[]
-21095,Dress Down,[]
-21112,Flay Essence,[]
-21136,Goldmire Bridge,[]
-21139,Grief,[]
-21151,Junk Winder,[]
-21154,Kitchen Imp,[]
-21160,Lens Flare,[]
-21166,Lucid Dreams,[]
-21170,Mental Journey,[]
-21173,Moderation,[]
-21179,Necrogoyf,[]
-21192,"Piru, the Volatile",[]
-21197,Prophetic Titan,[]
-21210,Road // Ruin,[]
-21216,Scion of Draco,[]
-21218,Scurry Oak,[]
-21220,Search the Premises,[]
-21225,Skophos Reaver,[]
-21228,Slagwoods Bridge,[]
-21231,Solitude,[]
-21241,Step Through,[]
-21242,Storm God's Oracle,[]
-21245,Sudden Edict,[]
-21252,Tanglepool Bridge,[]
-21259,Thought Monitor,[]
-21264,Timeless Witness,[]
-21265,Tireless Provisioner,[]
-21271,Unbounded Potential,[]
-21273,Unholy Heat,[]
-21287,"Yavimaya, Cradle of Growth",[]
-21293,Acererak the Archlich,[]
-21304,Bar the Gate,[]
-21307,Blink Dog,[]
-21311,Bruenor Battlehammer,[]
-21312,Bulette,[]
-21328,Critical Hit,[]
-21333,"Delina, Wild Mage",[]
-21340,Dire Wolf Prowler,[]
-21347,Drider,[]
-21358,Ellywick Tumblestrum,[]
-21401,Hulking Bugbear,[]
-21420,Loathsome Troll,[]
-21421,"Lolth, Spider Queen",[]
-21422,Long Rest,[]
-21440,Ochre Jelly,[]
-21445,Owlbear,[]
-21504,Tiamat,[]
-21708,Gavony Trapper,[]
-21817,Snarling Wolf,[]
-21857,Winterthorn Blessing,[]
-21924,Boarded Window,[]
-22058,Olivia's Attendants,[]
-22107,Stitched Assistant,[]
-22118,Twinblade Geist // Twinblade Invocation,[]
-22210,Myojin of Roaring Blades,[]
-22224,Unquenchable Fury,[]
-22229,Akki War Paint,[]
-22243,Bearer of Memory,[]
-22283,Enormous Energy Blade,[]
-22551,"Henzie ""Toolbox"" Torre",[]
-22892,Baldur's Gate,[]
-23055,Lurking Green Dragon,[]
-23060,Marut,[]
-23065,"Minsc & Boo, Timeless Heroes",[]
-23068,Mocking Doppelganger,[]
-23081,Nautiloid Ship,[]
-23082,Navigation Orb,[]
-23083,"Neera, Wild Mage",[]
-23084,Nefarious Imp,[]
-23087,Nimblewright Schematic,[]
-23088,Nine-Fingers Keene,[]
-23091,Nothic,[]
-23093,"Oji, the Exquisite Blade",[]
-23318,Evolved Sleeper,[]
-23383,Nishoba Brawler,[]
-23453,Territorial Maro,[]
-23791,Mass Production,[]
-23917,Warlord's Elite,[]
-24660,Tranquil Frillback,[]
-24784,Haradrim Spearmaster,[]
-24786,Hew the Entwood,[]
-24798,King of the Oathbreakers,[]
-24913,Swarming of Moria,[]
-25194,Hylda's Crown of Winter,[]
-25958,Auspicious Arrival,[]
-26199,Vein Ripper,[]
-26223,Dimir Strandcatcher,[]
-26249,Sumala Rumblers,[]
-26392,Vault 101: Birthday Party,[]
-26393,Vault 112: Sadistic Simulation,[]
-26394,Vault 11: Voter's Dilemma,[]
-26395,Vault 12: The Necropolis,[]
-26396,Vault 13: Dweller's Journey,[]
-26397,Vault 21: House Gambit,[]
-26398,Vault 75: Middle School,[]
-26399,Vault 87: Forced Evolution,[]
-26460,"Loot, the Key to Everything",[]
-26462,Lotus Ring,[]
-26543,"Ertha Jo, Frontier Mentor",[]
-26599,"Lazav, Familiar Stranger",[]
-26602,Loan Shark,[]
-26614,Metamorphic Blast,[]
-26671,Ruthless Lawbringer,[]
-26809,"Arna Kennerüd, Skycaptain",[]
-26960,"Ral, Monsoon Mage // Ral, Leyline Prodigy",[]
-27017,Thriving Skyclaw,[]
-27113,Layla Hassan,[]
-27136,"Shaun & Rebecca, Agents",[]
-27137,Shay Cormac,[]
-27140,"Sokrates, Athenian Teacher",[]
-27258,Hop to It,[]
-27267,Jolly Gerbils,[]
-27268,Junkblade Bruiser,[]
-27269,"Kastral, the Windcrested",[]
-27270,Keen-Eyed Curator,[]
-27271,Kindlespark Duo,[]
-27342,Season of Gathering,[]
-27343,Season of Loss,[]
-27344,Season of the Bold,[]
-27345,Season of the Burrow,[]
-27346,Season of Weaving,[]
+0,Circle of Protection: Blue,"['artist matters', 'bounce-self', 'circle of protection', 'damage prevention-you', 'damage prevention', 'un-design', 'un-set mechanics']"
+1,Circle of Protection: Green,-- FAILED --
+2,Circle of Protection: Red,"['artist matters', 'bounce-self', 'circle of protection', 'damage prevention-you', 'damage prevention', 'un-design', 'un-set mechanics']"
+3,Circle of Protection: White,"['artist matters', 'bounce-self', 'circle of protection', 'damage prevention-you', 'damage prevention', 'un-design', 'un-set mechanics']"
+4,Fire Elemental,['notags']
+5,Gray Ogre,['notags']
+6,Holy Strength,['notags']
+7,Ironroot Treefolk,['notags']
+8,Pearled Unicorn,['notags']
+9,Scathe Zombies,['notags']
+10,Unholy Strength,['meme']
+11,Water Elemental,['notags']
+12,Circle of Protection: Black,"['artist matters', 'bounce-self', 'circle of protection', 'damage prevention-you', 'damage prevention', 'un-design', 'un-set mechanics']"
+13,Circle of Protection: Artifacts,-- FAILED --
+14,Staff of Zegon,['notags']
+15,Barbary Apes,['notags']
+16,Crimson Kobolds,['notags']
+17,Crookshank Kobolds,['notags']
+18,Divine Transformation,['notags']
+19,Hell Swarm,['notags']
+20,Shield Wall,['notags']
+21,Goblin Hero,['notags']
+22,Marsh Gas,['notags']
+23,Scarwood Goblins,['notags']
+24,Goblin Warrens,"['mana sink', 'noncreature tribal', 'repeatable token generator', 'sacrifice outlet-creature', 'tribal-goblin', 'sacrifice outlet', 'typal', 'typal-creature']"
+25,Icatian Town,['notags']
+26,Forbidden Lore,['notags']
+27,Scaled Wurm,['notags']
+28,Tor Giant,['notags']
+29,Dwarven Trader,['notags']
+30,Helm of Obedience,"['mana sink', 'mill', 'sacrifice self', 'theft-creature', 'control changing effects', 'theft']"
+31,Inheritance,"['death trigger', 'repeatable draw', 'single english word name', 'card advantage', 'card names', 'draw', 'leaves battlefield trigger']"
+32,Insidious Bookworms,"['death trigger-self', 'discard', 'random discard', 'death trigger', 'leaves battlefield trigger']"
+33,Benthic Djinn,['notags']
+34,Ogre Enforcer,['notags']
+35,Gorilla Warrior,['creature type erratum']
+36,Aura of Silence,"['cost increaser', 'disenchant/naturalize', 'hate-artifact', 'hate-enchantment', 'removal-artifact-destroy', 'removal-enchantment-destroy', 'sacrifice self', 'removal', 'removal-artifact', 'removal-enchantment']"
+37,Circle of Protection: Shadow,-- FAILED --
+38,Lowland Giant,['notags']
+39,Reflecting Pool,['notags']
+40,Rootwalla,['notags']
+41,Trained Armodon,['notags']
+42,Lab Rats,['notags']
+43,Plated Rootwalla,['notags']
+44,Barbtooth Wurm,['notags']
+45,Bear Cub,['notags']
+46,Dakmor Scorpion,['notags']
+47,Goblin Cavaliers,['notags']
+48,Golden Bear,['notags']
+49,Obsidian Giant,['notags']
+50,Plated Wurm,['notags']
+51,Coral Merfolk,['notags']
+52,Disciple of Grace,"['activate from hand', 'creature type erratum', 'draw', 'evasion', 'french vanilla', 'hate-black', 'card advantage', 'flavors of vanilla', 'hate-color']"
+53,Faith Healer,"['creature type erratum', 'free sacrifice outlet', 'lifegain', 'mana value matters', 'sacrifice outlet-enchantment', 'synergy-enchantment', 'sacrifice outlet']"
+54,Opal Gargoyle,"['cast trigger-other', 'gains flying', 'intervening if clause', 'sleeping enchantment', 'untracked indefinite effect', 'animate', 'animate self', 'cast trigger', 'evasion', 'indefinite effect', 'type change']"
+55,Peregrine Drake,"['evasion', 'refund', 'untapper-land', 'virtual french vanilla', 'flavors of vanilla', 'untapper']"
+56,Rune of Protection: Artifacts,-- FAILED --
+57,Rune of Protection: Black,"['activate from hand', 'cycle-rune-protection', 'damage prevention-you', 'draw', 'hate-red', 'card advantage', 'circle of protection', 'cycle', 'damage prevention', 'hate-color']"
+58,Rune of Protection: Blue,"['activate from hand', 'cycle-rune-protection', 'damage prevention-you', 'draw', 'hate-red', 'card advantage', 'circle of protection', 'cycle', 'damage prevention', 'hate-color']"
+59,Rune of Protection: Green,"['activate from hand', 'cycle-rune-protection', 'damage prevention-you', 'draw', 'hate-red', 'card advantage', 'circle of protection', 'cycle', 'damage prevention', 'hate-color']"
+60,Rune of Protection: Lands,"['activate from hand', 'cycle-rune-protection', 'damage prevention-you', 'draw', 'hate-red', 'card advantage', 'circle of protection', 'cycle', 'damage prevention', 'hate-color']"
+61,Rune of Protection: Red,"['activate from hand', 'cycle-rune-protection', 'damage prevention-you', 'draw', 'hate-red', 'card advantage', 'circle of protection', 'cycle', 'damage prevention', 'hate-color']"
+62,Rune of Protection: White,-- FAILED --
+63,About Face,['notags']
+64,Giant Cockroach,['notags']
+65,Snap,"['activate from hand', 'alternate win condition', 'card game reference', 'draw', 'card advantage']"
+66,Forest Bear,['notags']
+67,"Kongming, ""Sleeping Dragon""",-- FAILED --
+68,"Pang Tong, ""Young Phoenix""",-- FAILED --
+69,Southern Elephant,['notags']
+70,Trained Jackal,['notags']
+71,Hulking Ogre,['notags']
+72,Silverback Ape,['notags']
+73,Boa Constrictor,['notags']
+74,Game Preserve,['notags']
+75,Tectonic Break,"['sacrifice outlet-land', 'sweeper-land-sacrifice', 'sacrifice outlet', 'sweeper', 'sweeper-land']"
+76,Wild Jhovall,['notags']
+77,Scoria Cat,['notags']
+78,Spur Grappler,['notags']
+79,Ordered Migration,['notags']
+80,Skittish Kavu,['notags']
+81,Wayfaring Giant,['notags']
+82,Planar Overlay,"['removal-land-bounce', 'rescue-land', 'symmetrical', 'bounce', 'removal', 'removal-land', 'rescue']"
+83,Gorilla Titan,['notags']
+84,Nantuko Disciple,['notags']
+85,Charging Slateback,['notags']
+86,Enormous Baloth,['notags']
+87,Astral Steel,['notags']
+88,Hunting Pack,['notags']
+89,Alpha Myr,['notags']
+90,Lumengrid Warden,['notags']
+91,Omega Myr,['notags']
+92,Raise the Alarm,['notags']
+93,Vulshok Gauntlets,['notags']
+94,Dross Crocodile,['notags']
+95,Goblin Brawler,['notags']
+96,Myr Quadropod,['notags']
+97,Kami of Old Stone,['notags']
+98,Order of the Sacred Bell,['notags']
+99,River Kaijin,['notags']
+100,Wandering Ones,['notags']
+101,Akki Raider,['notags']
+102,Frost Ogre,['notags']
+103,Gnarled Mass,['notags']
+104,"Mannichi, the Fevered Dream",['notags']
+105,Tendo Ice Bridge,['notags']
+106,Veteran Armorer,['notags']
+107,Ghost Warden,['notags']
+108,Streetbreaker Wurm,['notags']
+109,Krovikan Scoundrel,['notags']
+110,Martyr of Spores,"['cycle-csp-martyr', 'martyr', 'synergy-green', 'cycle', 'sacrifice self']"
+111,Empty the Warrens,['notags']
+112,Living End,"['cycle-tsp-no-mana-cost-suspend', 'intervening if clause', 'reanimate-creature', 'spell with no casting cost', 'sweeper-creature-sacrifice', 'symmetrical', 'cycle', 'reanimate', 'recursion', 'recursion-creature', 'sweeper', 'sweeper-creature']"
+113,Merfolk Thaumaturgist,['notags']
+114,Saltfield Recluse,['notags']
+115,Axegrinder Giant,['notags']
+116,Indomitable Ancients,['notags']
+117,Gloomwidow,['notags']
+118,Merrow Grimeblotter,['notags']
+119,Old Ghastbark,['notags']
+120,Torpor Dust,['notags']
+121,Cylian Elf,['notags']
+122,Dragon Fodder,['notags']
+123,Dreg Reaver,['notags']
+124,Incurable Ogre,['notags']
+125,Jhessian Lookout,['notags']
+126,Canyon Minotaur,['notags']
+127,Exotic Orchard,['notags']
+128,Fusion Elemental,['notags']
+129,Matca Rioters,['notags']
+130,Parasitic Strix,"['cycle-con-forward-synergy', 'drain life', 'evasion', 'opponent loses life', 'synergy-black', 'virtual french vanilla', 'cycle', 'flavors of vanilla', 'inverted effects', 'lifegain']"
+131,Scattershot Archer,"['hate-flying', 'hurricane', 'sweeper-creature-burn', 'sweeper', 'sweeper-creature']"
+132,Spore Burst,['notags']
+133,Valiant Guard,['notags']
+134,Glory of Warfare,['notags']
+135,Grizzled Leotau,['notags']
+136,Elite Vanguard,['notags']
+137,Oakenform,['notags']
+138,Runeclaw Bear,['notags']
+139,Siege Mastodon,['notags']
+140,Silvercoat Lion,['notags']
+141,Warpath Ghoul,['notags']
+142,Zombie Goliath,['notags']
+143,Cobra Trap,['notags']
+144,Kraken Hatchling,['notags']
+145,Pillarfield Ox,['notags']
+146,Shatterskull Giant,['notags']
+147,Vastwood Gorger,['notags']
+148,Death's Shadow,['notags']
+149,Dread Statuary,"['creatureland', 'animate', 'animate self', 'type change', 'utility land']"
+150,Explore,['notags']
+151,Goblin Roughrider,['notags']
+152,Leatherback Baloth,['notags']
+153,Ruthless Cullblade,['notags']
+154,Jwari Scuttler,['notags']
+155,Nema Siltlurker,['notags']
+156,Armored Cancrix,['notags']
+157,Barony Vampire,['notags']
+158,Blood Tithe,"['drain life', 'opponent loses life', 'inverted effects', 'lifegain']"
+159,Maritime Guard,['notags']
+160,Nether Horror,['notags']
+161,Stone Golem,['notags']
+162,Memnite,['notags']
+163,Razorfield Thresher,['notags']
+164,Hexplate Golem,['notags']
+165,Master's Call,['notags']
+166,Ogre Resister,['notags']
+167,Amphin Cutthroat,['notags']
+168,Armored Warhorse,['notags']
+169,Bonebreaker Giant,['notags']
+170,Rusted Sentinel,['notags']
+171,Darkthicket Wolf,['notags']
+172,Fortress Crab,['notags']
+173,Hysterical Blindness,['notags']
+174,Kindercatch,['notags']
+175,Riot Devils,['notags']
+176,Rotting Fensnake,['notags']
+177,Scourge of Geier Reach,['notags']
+178,Walking Corpse,['notags']
+179,Chant of the Skifsang,['notags']
+180,Gather the Townsfolk,['notags']
+181,Hollowhenge Beast,['notags']
+182,Russet Wolves,['notags']
+183,Sanctuary Cat,['notags']
+184,Nettle Swine,['notags']
+185,Raging Poltergeist,['notags']
+186,Renegade Demon,['notags']
+187,Vorstclaw,['notags']
+188,Wildwood Geist,['notags']
+189,Show of Valor,['notags']
+190,Aquus Steed,['notags']
+191,Axebane Stag,['notags']
+192,Catacomb Slug,['notags']
+193,Cobblebrute,['notags']
+194,Goblin Rally,['notags']
+195,Slime Molding,['notags']
+196,Gutter Skulk,['notags']
+197,Ruination Wurm,['notags']
+198,Wight of Precinct Six,['notags']
+199,Advent of the Wurm,['notags']
+200,Armored Wolf-Rider,['notags']
+201,Hive Stirrings,['notags']
+202,Kalonian Tusker,['notags']
+203,Minotaur Abomination,['notags']
+204,Regathan Firecat,['notags']
+205,Rumbling Baloth,['notags']
+206,Undead Minotaur,['notags']
+207,Borderland Minotaur,['notags']
+208,Felhide Minotaur,['notags']
+209,Pheres-Band Centaurs,['notags']
+210,Silent Artisan,['notags']
+211,Traveling Philosopher,['notags']
+212,Triton Shorethief,['notags']
+213,Yoked Ox,['notags']
+214,Cyclops of One-Eyed Pass,['notags']
+215,Great Hart,['notags']
+216,Swordwise Centaur,['notags']
+217,Flurry of Horns,['notags']
+218,Oreskos Swiftclaw,['notags']
+219,Revel of the Fallen God,['notags']
+220,Rotted Hulk,['notags']
+221,Witch's Familiar,['notags']
+222,Alpine Grizzly,['notags']
+223,Hordeling Outburst,['notags']
+224,Siegecraft,['notags']
+225,Summit Prowler,['notags']
+226,Take Up Arms,['notags']
+227,Tusked Colossodon,['notags']
+228,Wetland Sambar,['notags']
+229,Feral Krushok,['notags']
+230,Gore Swine,['notags']
+231,Great-Horn Krushok,['notags']
+232,Aerie Bowmasters,"['creature type erratum', 'french vanilla', 'gains pp counters', 'flavors of vanilla']"
+233,Ancient Carp,['notags']
+234,Colossodon Yearling,['notags']
+235,Conifer Strider,"['french vanilla', 'flavors of vanilla']"
+236,Contradict,"['cantrip', 'counterspell', 'single english word name', 'blue effect', 'card advantage', 'card names', 'draw']"
+237,Corpseweft,"['graveyard fuel-creature', 'mana sink', 'repeatable token generator', 'unique token', 'graveyard fuel']"
+238,Crater Elemental,"['bombard-self', 'burn with set mechanic', 'formidable', 'martyr', 'removal-creature-burn', 'shapechange', 'bombard', 'burn', 'power matters', 'removal', 'removal-creature', 'sacrifice outlet', 'sacrifice self']"
+239,Cunning Breezedancer,"['cast trigger-you', 'cycle-dtk-draft-signpost', 'cycle-dtk-u-allied-dragon', 'evasion', 'synergy-noncreature', 'cast trigger', 'cycle', 'draft signpost']"
+240,Secure the Wastes,['notags']
+241,Chandra's Ignition,"['burn player', 'cycle-ori-pivotal-moment', 'namesake-spell', 'one-sided fight', 'sweeper-creature-burn', 'burn', 'card names', 'cycle', 'power matters', 'removal', 'removal-creature', 'removal-creature-burn', 'sweeper', 'sweeper-creature']"
+242,Clash of Wills,"['counterspell-soft', 'cycle-ori-pivotal-moment', 'blue effect', 'counterspell', 'cycle']"
+243,Whirler Rogue,"['evasion', 'gives unblockable', 'synergy-artifact', 'tap fuel-artifact', 'gives-evasion']"
+244,Broodhunter Wurm,['notags']
+245,Dampening Pulse,['notags']
+246,Grovetender Druids,"['creaturefall', 'cycle-bfz-draft-signpost', 'noncreature tribal', 'repeatable token generator', 'tribal-ally', 'cycle', 'draft signpost', 'typal', 'typal-creature']"
+247,Gruesome Slaughter,"['one-sided fight', 'synergy-colorless', 'burn', 'power matters', 'removal', 'removal-creature', 'removal-creature-burn']"
+248,Guardian of Tazeem,"['cycle-bfz-color-landfall', 'evasion', 'freeze-creature', 'islandfall', 'synergy-island', 'tapper-creature', 'cycle', 'freeze', 'landfall', 'lands matter', 'tapper']"
+249,Guul Draz Overseer,"['cycle-bfz-color-landfall', 'evasion', 'power boost to all', 'swampfall', 'synergy-swamp', 'cycle', 'landfall', 'lands matter']"
+250,Hagra Sharpshooter,"['mana sink', 'removal-creature-toughness', 'unique type line', 'removal', 'removal-creature']"
+251,Lavastep Raider,['notags']
+252,Allied Reinforcements,['notags']
+253,Ancient Crab,['notags']
+254,Canopy Gorger,['notags']
+255,Convicted Killer // Branded Howler,['notags']
+256,Devilthorn Fox,['notags']
+257,Hinterland Logger // Timber Shredder,['notags']
+258,Hulking Devil,['notags']
+259,Second Harvest,"['copy-aura', 'copy-creature', 'copy-equipment', 'copy-land', 'copy-planeswalker', 'copy-token', 'synergy-token', 'token doubler', 'copy', 'token increaser']"
+260,Senseless Rage,['notags']
+261,Solitary Hunter // One of the Pack,['notags']
+262,Thornhide Wolves,['notags']
+263,Bold Impaler,['notags']
+264,"Emrakul, the Promised End","['card types in graveyard matter', 'eldrazi titan', 'evasion', 'extra turn', 'hate-instant', 'theft', 'turn control', 'unique mana cost', 'cards in graveyard matter', 'control changing effects']"
+265,Falkenrath Reaver,['notags']
+266,Field Creeper,['notags']
+267,Graf Rats,['notags']
+268,Wolfkin Bond,['notags']
+269,Cowl Prowler,['notags']
+270,Curio Vendor,['notags']
+271,Inventors' Fair,"['lifegain', 'metalcraft', 'sacrifice self', 'tutor-artifact', 'tutor-to-hand', 'utility land', 'synergy-artifact', 'tutor', 'tutor-to']"
+272,Prakhata Club Security,['notags']
+273,Servo Exhibition,['notags']
+274,Tasseled Dromedary,['notags']
+275,Terrain Elemental,['notags']
+276,Territorial Gorger,['notags']
+277,Terror of the Fairgrounds,['notags']
+278,Bastion Enforcer,['notags']
+279,Lathnu Sailback,['notags']
+280,Peacewalker Colossus,"['animate self', 'animate vehicle', 'offcolor ability', 'synergy-vehicle', 'tap fuel-creature', 'animate', 'type change']"
+281,Prizefighter Construct,['notags']
+282,Colossapede,['notags']
+283,Dune Beetle,['notags']
+284,Hyena Pack,['notags']
+285,Those Who Serve,['notags']
+286,Champion of Wits,"['activate from graveyard', 'creature type erratum', 'cycle-hou-power-eternalizer', 'draw', 'loot', 'out of color token', 'power matters-self', 'virtual vanilla', 'blue effect', 'card advantage', 'cycle', 'discard outlet', 'flavors of vanilla', 'power matters']"
+287,Crash Through,"['cantrip', 'gives trample', 'card advantage', 'draw']"
+288,Crested Sunmare,"['gives indestructible', 'lifegain matters', 'noncreature tribal', 'protects-creature', 'repeatable token generator', 'tribal-horse', 'unique token', 'protects-permanent', 'typal', 'typal-creature']"
+289,Cunning Survivor,"['discard matters', 'synergy-cycling', 'unblockable', 'evasion']"
+290,Dauntless Aven,"['attack trigger', 'evasion', 'synergy-attacker-self', 'untapper-creature', 'untapper']"
+291,Defiant Khenra,['notags']
+292,Desert's Hold,"['lifegain', 'pacifism', 'prevent activation', 'prevent attack', 'prevent blocker', 'synergy-desert', 'removal']"
+293,Dreamstealer,"['activate from graveyard', 'cycle-hou-power-eternalizer', 'discard', 'evasion', 'saboteur', 'cycle']"
+294,Dutiful Servants,['notags']
+295,Fraying Sanity,"['mill-any', 'requires notation', 'mill']"
+296,Frilled Sandwalla,['notags']
+297,Hashep Oasis,"['boost-power', 'boost-toughness', 'cycle-hou-desert-painland', 'painland', 'sacrifice outlet-land', 'sacrifice self', 'synergy-desert', 'utility land', 'cycle', 'cycle-land', 'cycle-mono-land', 'life payment', 'sacrifice outlet']"
+298,Hollow One,"['activate from hand', 'discard matters', 'draw', 'potentially free', 'requires notation', 'synergy-cycling', 'alternate-nonmana-cost', 'card advantage']"
+299,Striped Riverwinder,"['activate from hand', 'draw', 'french vanilla', 'card advantage', 'flavors of vanilla']"
+300,Struggle // Survive,"['alliteration', 'burn with set mechanic', 'cast-from-graveyard', 'cycle-hou-allied-aftermath', 'lands matter', 'punny name', 'removal-creature-burn', 'restock', 'sweeper-graveyard', 'burn', 'card names', 'cycle', 'hate-graveyard', 'recursion', 'removal', 'removal-creature']"
+301,Sunscourge Champion,"['activate from graveyard', 'cycle-hou-power-eternalizer', 'discard outlet', 'lifegain', 'out of color token', 'power matters-self', 'virtual vanilla', 'cycle', 'flavors of vanilla', 'power matters']"
+302,Sunset Pyramid,"['repeatable draw', 'tome', 'top deck manipulation', 'card advantage', 'draw', 'library manipulation']"
+303,Supreme Will,"['counterspell-soft', 'cycle-hou-modal-spell', 'impulse', 'modal', 'blue effect', 'card advantage', 'counterspell', 'cycle']"
+304,Survivors' Encampment,['tap fuel-creature']
+305,Swarm Intelligence,"['cast trigger-you', 'copy-instant', 'copy-sorcery', 'synergy-instant', 'synergy-sorcery', 'cast trigger', 'copy']"
+306,Tenacious Hunter,"['gains deathtouch', 'gains vigilance', 'mm counters matter', 'counters matter']"
+307,The Locust God,"['cycle-hou-god', 'death trigger-self', 'delayed triggered ability', 'draw matters', 'evasion', 'loot', 'mana sink', 'regrowth-self', 'repeatable token generator', 'unique token', 'blue effect', 'card advantage', 'cycle', 'death trigger', 'discard outlet', 'leaves battlefield trigger', 'recursion', 'regrowth']"
+308,The Scarab God,"['copy-creature', 'cycle-hou-god', 'death trigger-self', 'delayed triggered ability', 'eternalize', 'graveyard fuel-creature', 'hate-graveyard', 'mana sink', 'noncreature tribal', 'opponent loses life', 'regrowth-self', 'removal-creature', 'repeatable token generator', 'top deck manipulation', 'tribal-zombie', 'card advantage', 'copy', 'cycle', 'death trigger', 'graveyard fuel', 'leaves battlefield trigger', 'library manipulation', 'recursion', 'regrowth', 'removal', 'typal', 'typal-creature']"
+309,The Scorpion God,"['cycle-hou-god', 'death trigger-self', 'delayed triggered ability', 'gives mm counters', 'mm counters matter', 'regrowth-self', 'card advantage', 'counters matter', 'cycle', 'death trigger', 'leaves battlefield trigger', 'recursion', 'regrowth']"
+310,Thorned Moloch,"['cast trigger-you', 'gains first strike', 'synergy-attacker-self', 'synergy-noncreature', 'cast trigger']"
+311,Torment of Hailfire,"['cycle-hou-torment', 'discard', 'multiplayer', 'opponent loses life', 'punisher', 'removal-nonland-sacrifice', 'cycle', 'dilemma', 'removal', 'removal-artifact', 'removal-creature', 'removal-enchantment', 'removal-nonland', 'removal-planeswalker']"
+312,Torment of Scarabs,"['cycle-hou-torment', 'discard', 'opponent loses life', 'opponent sacrifices', 'punisher', 'removal-nonland-sacrifice', 'cycle', 'dilemma', 'removal', 'removal-artifact', 'removal-creature', 'removal-enchantment', 'removal-nonland', 'removal-planeswalker']"
+313,Torment of Venom,"['cycle-hou-torment', 'discard', 'gives mm counters', 'opponent loses life', 'punisher', 'removal-creature-toughness', 'removal-nonland-sacrifice', 'cycle', 'dilemma', 'removal', 'removal-artifact', 'removal-creature', 'removal-enchantment', 'removal-nonland', 'removal-planeswalker']"
+314,Tragic Lesson,"['catalog', 'draw', 'loot', 'rescue-land', 'blue effect', 'bounce', 'card advantage', 'discard outlet', 'rescue']"
+315,Uncage the Menagerie,"['inscryption achievement', 'tutor-cmc', 'tutor-creature', 'tutor-to-hand', 'tutor', 'tutor-to']"
+316,Unconventional Tactics,"['creaturefall', 'enlarge', 'gives flying', 'jump', 'noncreature tribal', 'regrowth-self', 'tribal-zombie', 'trigger from graveyard', 'card advantage', 'evasion', 'gives-evasion', 'recursion', 'regrowth', 'typal', 'typal-creature']"
+317,"Unesh, Criosphinx Sovereign","['cost reducer', 'evasion', 'fact or fiction', 'noncreature tribal', 'ramp', 'tribal-sphinx', 'dilemma', 'divvy', 'typal', 'typal-creature']"
+318,Wasp of the Bitter End,"['cast trigger-you', 'evasion', 'pwdeck-sidekick', 'removal-creature-destroy', 'sacrifice self', 'synergy-pw-bolas', 'cast trigger', 'planeswalker deck staples', 'removal', 'removal-creature']"
+319,"Kess, Dissident Mage","['alt-commander', 'cycle-c17-alt-commander', 'evasion', 'grants flashback', 'synergy-instant', 'synergy-sorcery']"
+320,Ancient Brontodon,['notags']
+321,Frenzied Raptor,['notags']
+322,Gilded Sentinel,['notags']
+323,Headwater Sentries,['notags']
+324,Looming Altisaur,['notags']
+325,Queen's Bay Soldier,['notags']
+326,Raptor Companion,['notags']
+327,Canal Monitor,['notags']
+328,Dusk Charger,['notags']
+329,Orazca Frillback,['notags']
+330,Orazca Raptor,['notags']
+331,Spire Winder,['evasion']
+332,Sun-Collared Raptor,['notags']
+333,Swab Goblin,['notags']
+334,Cabal Evangel,['notags']
+335,Knight of New Benalia,['notags']
+336,Primordial Wurm,['notags']
+337,Saproling Migration,['notags']
+338,Tolarian Scholar,['notags']
+339,Armored Whirl Turtle,['notags']
+340,Ferocious Zheng,['notags']
+341,Hardened-Scale Armor,['notags']
+342,Leopard-Spotted Jiao,['notags']
+343,Aegis of the Heavens,['notags']
+344,Bogstomper,['notags']
+345,Gigantosaurus,['notags']
+346,Knight's Pledge,['notags']
+347,Douser of Lights,['notags']
+348,Fearless Halberdier,['notags']
+349,Wild Ceratok,['notags']
+350,Wishcoin Crab,['notags']
+351,Axebane Beast,['notags']
+352,Feral Maaka,['notags']
+353,Prowling Caracal,['notags']
+354,Slimebind,['notags']
+355,Tin Street Dodger,['notags']
+356,Goblin Assailant,['notags']
+357,Ironclad Krovod,['notags']
+358,Recruit the Worthy,['notags']
+359,Trumpeting Herd,['delayed triggered ability']
+360,Colossus Hammer,['drawback']
+361,Dark Remedy,['notags']
+362,Imperial Outrider,['notags']
+363,Eidolon of Inspiration,['notags']
+364,Phalanx Tactics,['notags']
+365,Flawless Maneuver,"['cycle-c20-pitch-spell', 'gives indestructible', 'protects-creature', 'synergy-commander', 'alternate-nonmana-cost', 'cycle', 'potentially free', 'protects-permanent']"
+366,Aegis Turtle,['notags']
+367,Basri Ket,"['attack trigger', 'cycle-m21-basri-vertical', 'cycle-m21-planeswalker', 'eponymous planeswalker', 'gives indestructible', 'gives pp counters', 'power boost to all', 'protects-creature', 'repeatable token generator', 'synergy-attacker', 'cycle', 'protects-permanent']"
+368,Release the Dogs,['notags']
+369,Highborn Vampire,['notags']
+370,Murasa Brute,['notags']
+371,Windrider Wizard,"['alliteration', 'cast trigger-you', 'evasion', 'loot', 'noncreature tribal', 'synergy-instant', 'synergy-sorcery', 'tribal-wizard', 'blue effect', 'card advantage', 'card names', 'cast trigger', 'discard outlet', 'typal', 'typal-creature']"
+372,Clarion Spirit,"['cast trigger-you', 'repeatable token generator', 'second spell matters', 'cast trigger']"
+373,Cleaving Reaper,"['activate from graveyard', 'evasion', 'life payment', 'noncreature tribal', 'regrowth-self', 'tribal coupling', 'tribal-angel', 'tribal-berserker', 'card advantage', 'recursion', 'regrowth', 'typal', 'typal-creature']"
+374,Codespell Cleric,"['alliteration', 'gives pp counters', 'second spell matters', 'virtual french vanilla', 'card names', 'flavors of vanilla']"
+375,Colossal Plow,"['animate self', 'attack trigger', 'lifegain', 'ramp', 'synergy-attacker-self', 'tap fuel-creature', 'animate', 'type change']"
+376,"Cosima, God of the Voyage // The Omenkeel","['animate self', 'flicker-self', 'flicker-slow', 'gains pp counters', 'landfall', 'mill-exile', 'repeatable draw', 'saboteur', 'synergy-vehicle', 'tap fuel-creature', 'theft-land', 'trigger from exile', 'unique counter', 'animate', 'card advantage', 'control changing effects', 'draw', 'flicker', 'lands matter', 'mill', 'theft', 'type change']"
+377,Dwarven Reinforcements,['notags']
+378,"Sigrid, God-Favored","['banish-creature', 'hate-attacker', 'hate-blocker', 'hate-set-mechanic', 'hate-tribal-god', 'haven', 'synergy-attacker', 'synergy-blocker', 'banish', 'hate-tribal', 'removal', 'removal-creature', 'removal-creature-exile']"
+379,Skemfar Elderhall,"['cycle-khm-realm', 'removal-creature-toughness', 'sacrifice self', 'utility land', 'cycle', 'removal', 'removal-creature', 'tapland']"
+380,Skull Raid,"['discard with set mechanic', 'draw', 'hand size hate', 'card advantage', 'discard', 'hand size matters']"
+381,Snakeskin Veil,"['giant growth', 'gives hexproof', 'protects-creature', 'combat trick', 'enlarge', 'protects-permanent']"
+382,Vengeful Reaper,"['evasion', 'french vanilla', 'flavors of vanilla']"
+383,Inkshield,"['aikido', 'damage prevention', 'damage prevention-you', 'fog-selective', 'fog']"
+384,Pest Infestation,"['disenchant/naturalize', 'out of color token', 'removal-artifact-destroy', 'removal-enchantment-destroy', 'removal', 'removal-artifact', 'removal-enchantment']"
+385,Ageless Guardian,['notags']
+386,Curate,"['cantrip', 'single english word name', 'surveil', 'card advantage', 'card names', 'draw', 'library manipulation', 'mill', 'mill-self', 'top deck manipulation']"
+387,"Dina, Soul Steeper","['alliteration', 'cycle-stx-student', 'lifegain matters', 'opponent loses life', 'power matters', 'sacrifice outlet-creature', 'card names', 'cycle', 'cycle-stx-draft-signpost', 'draft signpost', 'sacrifice outlet']"
+388,Dueling Coach,"['gives pp counters', 'mana sink', 'pp counters matter', 'counters matter']"
+389,Eager First-Year,"[""bear with set's mechanic"", 'cast trigger-you', 'magecraft', 'cast trigger', 'synergy-instant', 'synergy-sorcery']"
+390,Ecological Appreciation,"['divvy', 'opponent chooses', 'reanimate-creature', 'tutor-creature', 'tutor-to-battlefield', 'dilemma', 'reanimate', 'recursion', 'recursion-creature', 'tutor', 'tutor-to']"
+391,Efreet Flamepainter,"['free-cast-another', 'grants flashback', 'saboteur', 'synergy-instant', 'synergy-sorcery']"
+392,Elemental Expressionist,"['alliteration', 'cast trigger-you', 'cycle-stx-hhhh', 'day zero errata', 'leaves battlefield trigger', 'magecraft', 'repeatable token generator', 'synergy-exile', 'card names', 'cast trigger', 'cycle', 'synergy-instant', 'synergy-sorcery']"
+393,Magma Opus,"['activate from hand', 'burn any', 'cycle-stx-treasure-spell', 'draw', 'fun ruling', 'punny name', 'ramp', 'tapper-permanent', 'burn', 'card advantage', 'card names', 'cycle', 'tapper', 'tapper-artifact', 'tapper-creature', 'tapper-land', 'tapper-planeswalker']"
+394,Spined Karok,['notags']
+395,Verdant Mastery,"['cycle-stx-mastery', 'gift', 'ramp', 'selective group hug', 'tutor-land-basic', 'tutor-land-to-battlefield', 'tutor-to-hand', 'control changing effects', 'cycle', 'group hug', 'tutor', 'tutor-land', 'tutor-to', 'tutor-to-battlefield']"
+396,Aeromoeba,"['discard outlet', 'evasion']"
+397,Bone Shards,"['discard outlet', 'removal-creature-destroy', 'removal-planeswalker-destroy', 'sacrifice outlet-creature', 'removal', 'removal-creature', 'removal-planeswalker', 'sacrifice outlet']"
+398,Carth the Lion,"['death trigger', 'impulse-planeswalker', 'synergy-planeswalker', 'unique cr reference', 'card advantage', 'impulse', 'leaves battlefield trigger']"
+399,"Chatterfang, Squirrel General","['evasion', 'flowstone', 'noncreature tribal', 'offcolor ability', 'removal-creature-toughness', 'sacrifice outlet-creature', 'synergy-token', 'token increaser', 'tribal-squirrel', 'removal', 'removal-creature', 'sacrifice outlet', 'typal', 'typal-creature']"
+400,Chatterstorm,['notags']
+401,Damn,"['removal-creature-destroy', 'single english word name', 'sweeper-creature-destroy', 'card names', 'removal', 'removal-creature', 'sweeper', 'sweeper-creature']"
+402,Dermotaxi,"['animate self', 'copy-creature', 'crewless vehicle', 'graveyard fuel-creature', 'hate-graveyard', 'punny name', 'tap fuel-creature', 'animate', 'card names', 'copy', 'graveyard fuel', 'type change']"
+403,Dragon's Rage Channeler,"['card types in graveyard matter', 'cast trigger-you', 'forced attacker', 'gains flying', 'mix-and-match', 'surveil', 'synergy-noncreature', 'cards in graveyard matter', 'cast trigger', 'evasion', 'library manipulation', 'mill', 'mill-self', 'top deck manipulation']"
+404,Dress Down,"['alliteration', 'cantrip', 'humble', 'punny name', 'card advantage', 'card names', 'draw']"
+405,Flay Essence,"['counters matter', 'lifegain', 'removal-creature-exile', 'removal-planeswalker-exile', 'removal', 'removal-creature', 'removal-planeswalker']"
+406,Goldmire Bridge,"['cycle-mh2-bridge', 'cycle', 'cycle-dual-land', 'cycle-land', 'tapland']"
+407,Grief,"['cycle-mh2-incarnation', 'evasion', 'intervening if clause', 'single english word name', 'synergy-black', 'thoughtseize', 'virtual french vanilla', 'card names', 'cycle', 'flavors of vanilla', 'hand disruption', 'pitch spell']"
+408,Junk Winder,"['freeze-nonland', 'synergy-token', 'tapper-nonland', 'freeze', 'tapper', 'tapper-artifact', 'tapper-creature', 'tapper-planeswalker']"
+409,Kitchen Imp,"['evasion', 'french vanilla', 'flavors of vanilla']"
+410,Lens Flare,"['affinity for artifacts', 'hate-attacker', 'hate-blocker', 'removal-creature-burn', 'affinity', 'burn', 'removal', 'removal-creature', 'synergy-artifact']"
+411,Lucid Dreams,"['card types in graveyard matter', 'draw', 'card advantage', 'cards in graveyard matter']"
+412,Mental Journey,"['activate from hand', 'cycle-mh2-basic-landcycler', 'draw', 'tutor-land-basic', 'tutor-to-hand', 'card advantage', 'cycle', 'tutor', 'tutor-land', 'tutor-to']"
+413,Moderation,"['cast trigger-you', 'drawback', 'repeatable draw', 'rule of law', 'single english word name', 'card advantage', 'card names', 'cast trigger', 'draw', 'hate-storm']"
+414,Necrogoyf,"['creatures in all graveyards matter', 'discard', 'discard outlet', 'lhurgoyf', 'synergy-mill', 'cards in graveyard matter']"
+415,"Piru, the Volatile","['death trigger-self', 'evasion', 'lifegain', 'sweeper-creature-burn', 'synergy-legendary', 'unique mana cost', 'upkeep cost', 'death trigger', 'leaves battlefield trigger', 'sweeper', 'sweeper-creature']"
+416,Prophetic Titan,"['burn any', 'card types in graveyard matter', 'cycle-mh2-draft-signpost', 'impact effect', 'impulse', 'modal', 'virtual vanilla', 'burn', 'card advantage', 'cards in graveyard matter', 'cycle', 'draft signpost', 'flavors of vanilla']"
+417,Road // Ruin,"['alliteration', 'burn with set mechanic', 'cast-from-graveyard', 'cycle-mh2-draft-signpost', 'lands matter', 'punny name', 'ramp', 'removal-creature-burn', 'tutor-land-basic', 'tutor-land-to-battlefield', 'burn', 'card names', 'cycle', 'draft signpost', 'removal', 'removal-creature', 'tutor', 'tutor-land', 'tutor-to', 'tutor-to-battlefield']"
+418,Scion of Draco,"['affinity for domain', 'evasion', 'gives first strike', 'gives hexproof', 'gives lifelink', 'gives trample', 'gives vigilance', 'namesake-spell', 'protects-creature', 'synergy-color-each', 'affinity', 'affinity for land type', 'card names', 'lands matter', 'lifegain', 'protects-permanent']"
+419,Scurry Oak,"['creaturefall', 'gains pp counters', 'intervening if clause', 'power matters', 'pp counters matter', 'repeatable token generator', 'toughness matters', 'counters matter']"
+420,Search the Premises,"['attack trigger', 'hate-attacker', 'repeatable draw', 'synergy-planeswalker', 'card advantage', 'draw']"
+421,Skophos Reaver,['notags']
+422,Slagwoods Bridge,"['cycle-mh2-bridge', 'cycle', 'cycle-dual-land', 'cycle-land', 'tapland']"
+423,Solitude,"['cycle-mh2-incarnation', 'intervening if clause', 'lifegain', 'opponent lifegain', 'removal-creature-exile', 'single english word name', 'synergy-white', 'virtual french vanilla', 'card names', 'cycle', 'flavors of vanilla', 'pitch spell', 'removal', 'removal-creature']"
+424,Step Through,"['activate from hand', 'noncreature tribal', 'removal-creature-bounce', 'tribal-wizard', 'tutor-creature-wizard', 'tutor-to-hand', 'removal', 'removal-creature', 'tutor', 'tutor-creature', 'tutor-to', 'typal', 'typal-creature']"
+425,Storm God's Oracle,"['burn any', 'cycle-mh2-common-multicolor', 'death trigger-self', 'flowstone', 'burn', 'cycle', 'death trigger', 'leaves battlefield trigger']"
+426,Sudden Edict,"['hate-counterspell', 'removal-creature-sacrifice', 'removal', 'removal-creature']"
+427,Tanglepool Bridge,"['cycle-mh2-bridge', 'cycle', 'cycle-dual-land', 'cycle-land', 'tapland']"
+428,Thought Monitor,"['affinity for artifacts', 'draw', 'evasion', 'virtual french vanilla', 'affinity', 'card advantage', 'flavors of vanilla', 'synergy-artifact']"
+429,Timeless Witness,"['activate from graveyard', 'out of color token', 'punny name', 'regrowth', 'virtual vanilla', 'card advantage', 'card names', 'flavors of vanilla', 'recursion']"
+430,Tireless Provisioner,"['landfall', 'lifegain', 'ramp', 'lands matter']"
+431,Unbounded Potential,"['gives pp counters', 'mix-and-match', 'modal']"
+432,Unholy Heat,"['burn with set mechanic', 'card types in graveyard matter', 'removal-creature-burn', 'removal-planeswalker-burn', 'burn', 'cards in graveyard matter', 'removal', 'removal-creature', 'removal-planeswalker']"
+433,"Yavimaya, Cradle of Growth","['land conversion', 'mana fix', 'symmetrical', 'universal type change', 'type change']"
+434,Acererak the Archlich,"['alliteration', 'attack trigger', 'bounce-self', 'dnd monster', 'multiplayer', 'punisher', 'removal-creature-sacrifice', 'repeatable token generator', 'synergy-attacker-self', 'synergy-dungeon', 'card names', 'dilemma', 'dnd', 'removal', 'removal-creature']"
+435,Bar the Gate,"['counterspell with set mechanic', 'counterspell-creature', 'counterspell-planeswalker', 'blue effect', 'counterspell']"
+436,Blink Dog,"['dnd monster', 'phasing', 'dnd']"
+437,Bruenor Battlehammer,"['alliteration', 'armament ability', 'cost-reducer-equip-ability', 'cycle-afr-uncommon-legend', 'dnd character', 'card names', 'cost reducer', 'cost-reducer-activated-ability', 'cycle', 'dnd', 'draft signpost', 'synergy-equipment']"
+438,Bulette,"['dnd monster', 'gains pp counters', 'morbid', 'dnd']"
+439,Critical Hit,"['dice roll', 'dnd mechanic', 'gives double strike', 'regrowth-self', 'synergy-dice', 'trigger from graveyard', 'card advantage', 'dnd', 'recursion', 'regrowth']"
+440,"Delina, Wild Mage","['attack trigger', 'copy-creature', 'copy-legendary', 'day zero errata', 'dnd character', 'roll d20', 'synergy-attacker-self', 'temporary token', 'copy', 'dice roll', 'dnd']"
+441,Dire Wolf Prowler,['gains haste']
+442,Drider,"['dnd monster', 'repeatable token generator', 'saboteur', 'unique type line', 'dnd']"
+443,Ellywick Tumblestrum,"['cycle-afr-planeswalker', 'eponymous planeswalker', 'gives haste', 'impulse-creature', 'lifegain', 'overrun', 'synergy-dungeon', 'synergy-legendary', 'unique type line', 'card advantage', 'cycle', 'gives trample', 'impulse', 'power boost to all']"
+444,Hulking Bugbear,"['french vanilla', 'flavors of vanilla']"
+445,Loathsome Troll,"['activate from graveyard', 'reanimate-self', 'regrowth-self', 'restock-self', 'roll d20', 'card advantage', 'dice roll', 'reanimate', 'recursion', 'regrowth', 'restock']"
+446,"Lolth, Spider Queen","['cycle-afr-planeswalker', 'death trigger', 'dnd character', 'life payment', 'opponent loses life', 'passive ability', 'repeatable draw', 'repeatable token generator', 'requires notation', 'saboteur', 'card advantage', 'cycle', 'dnd', 'draw', 'leaves battlefield trigger']"
+447,Long Rest,"['dnd mechanic', 'high x matters', 'regrowth', 'set life total', 'card advantage', 'dnd', 'recursion']"
+448,Ochre Jelly,"['copy-self', 'death trigger-self', 'dnd monster', 'gains pp counters', 'pp counters matter', 'splits on death', 'copy', 'counters matter', 'death trigger', 'dnd', 'leaves battlefield trigger']"
+449,Owlbear,"['cantrip', 'dnd monster', 'virtual french vanilla', 'card advantage', 'dnd', 'draw', 'flavors of vanilla']"
+450,Tiamat,"['dnd monster', 'evasion', 'intervening if clause', 'noncreature tribal', 'tribal-dragon', 'tutor-creature-dragon', 'tutor-to-hand', 'unique type line', 'virtual french vanilla', 'dnd', 'flavors of vanilla', 'tutor', 'tutor-creature', 'tutor-to', 'typal', 'typal-creature']"
+451,Gavony Trapper,"['tapper-creature', 'tapper']"
+452,Snarling Wolf,['notags']
+453,Winterthorn Blessing,"['cast-from-graveyard', 'cycle-mid-uncommon-flashback', 'freeze-creature', 'gives pp counters', 'tapper-creature', 'cycle', 'freeze', 'tapper']"
+454,Boarded Window,['notags']
+455,Olivia's Attendants,"['burn any', 'evasion', 'mana sink', 'namesake-spell', 'pinger', 'repeatable removal', 'rummage', 'tokenlink', 'burn', 'card advantage', 'card names', 'discard outlet', 'red effect', 'removal']"
+456,Stitched Assistant,"['cantrip', 'sacrifice outlet-creature', 'virtual vanilla', 'card advantage', 'draw', 'flavors of vanilla', 'sacrifice outlet']"
+457,Twinblade Geist // Twinblade Invocation,"['cast-from-graveyard', 'gives double strike']"
+458,Myojin of Roaring Blades,"['burn any', 'commander set booster cards', 'cycle-nec-myojin', 'gains indestructible', 'indestructible counter', 'burn', 'cycle', 'keyword counter']"
+459,Unquenchable Fury,['notags']
+460,Akki War Paint,['notags']
+461,Bearer of Memory,"['gives pp counters', 'gives trample', 'mana sink', 'synergy-enchantment-creature']"
+462,Enormous Energy Blade,"['alliteration', 'boost-power', 'card names']"
+463,"Henzie ""Toolbox"" Torre",-- FAILED --
+464,Baldur's Gate,['notags']
+465,Lurking Green Dragon,"['evasion', 'hate-flying', 'restricted attacker']"
+466,Marut,"['dnd monster', 'refund', 'synergy-treasure', 'virtual french vanilla', 'dnd', 'flavors of vanilla']"
+467,"Minsc & Boo, Timeless Heroes",-- FAILED --
+468,Mocking Doppelganger,"['clone', 'force attacker', 'name matters', 'combat manipulation', 'copy', 'copy-creature']"
+469,Nautiloid Ship,"['animate self', 'evasion', 'reanimate-creature', 'reanimate-from-any', 'saboteur', 'sweeper-graveyard', 'tap fuel-creature', 'animate', 'hate-graveyard', 'reanimate', 'reanimate-from-opponent', 'recursion', 'recursion-creature', 'type change']"
+470,Navigation Orb,"['dnd item', 'egg', 'ramp', 'synergy-gate', 'tutor-land-basic', 'tutor-land-gate', 'tutor-land-to-battlefield', 'tutor-to-hand', 'dnd', 'sacrifice self', 'tutor', 'tutor-land', 'tutor-to', 'tutor-to-battlefield']"
+471,"Neera, Wild Mage","['cast trigger-you', 'consult-cast', 'day zero errata', 'dnd character', 'free-cast-another', 'multiple race types', 'card advantage', 'cast trigger', 'consult', 'dnd']"
+472,Nefarious Imp,"['evasion', 'leaves battlefield trigger', 'top deck manipulation', 'library manipulation']"
+473,Nimblewright Schematic,"['death trigger-self', 'death trigger', 'leaves battlefield trigger']"
+474,Nine-Fingers Keene,"['cycle-clb-tricolor-legend', 'dnd character', 'evasion', 'extra land', 'impulse-onto-battlefield', 'lands matter', 'saboteur', 'synergy-gate', 'card advantage', 'cycle', 'dnd', 'impulse', 'impulse-to-zone', 'ramp']"
+475,Nothic,"['cycle-clb-uncommon-d20', 'death trigger-self', 'dnd monster', 'draw', 'life payment', 'roll d20', 'card advantage', 'cycle', 'death trigger', 'dice roll', 'dnd', 'leaves battlefield trigger']"
+476,"Oji, the Exquisite Blade","['cast trigger-you', 'cycle-clb-draft-signpost', 'cycle-clb-uncommon-legend', 'cycle-hbg-draft-signpost', 'flicker-creature', 'lifegain', 'protects-creature', 'second spell matters', 'top deck manipulation', 'cast trigger', 'cycle', 'draft signpost', 'flicker', 'library manipulation', 'protects-permanent']"
+477,Evolved Sleeper,"['deathtouch counter', 'gains deathtouch', 'gains pp counters', 'life payment', 'mana sink', 'pseudo-leveler', 'repeatable draw', 'shapechange', 'type change', 'untracked indefinite effect', 'card advantage', 'draw', 'indefinite effect', 'keyword counter']"
+478,Nishoba Brawler,['notags']
+479,Territorial Maro,['notags']
+480,Mass Production,['notags']
+481,Warlord's Elite,['notags']
+482,Tranquil Frillback,"['disenchant/naturalize', 'lifegain', 'pseudo-kicker', 'reflexive trigger', 'removal-artifact-destroy', 'removal-enchantment-destroy', 'sweeper-graveyard', 'virtual vanilla', 'flavors of vanilla', 'hate-graveyard', 'removal', 'removal-artifact', 'removal-enchantment']"
+483,Haradrim Spearmaster,['notags']
+484,Hew the Entwood,"['extra land', 'impulse-artifact', 'impulse-land', 'impulse-onto-battlefield', 'sacrifice outlet-land', 'card advantage', 'impulse', 'impulse-to-zone', 'ramp', 'sacrifice outlet']"
+485,King of the Oathbreakers,"['evasion', 'hate-target', 'noncreature tribal', 'phasing', 'protects-creature', 'repeatable token generator', 'tribal-spirit', 'protects-permanent', 'typal', 'typal-creature']"
+486,Swarming of Moria,"['out of color token', 'ramp', 'refund', 'tribal-army', 'typal', 'typal-creature']"
+487,Hylda's Crown of Winter,"['draw', 'hate-tapped', 'namesake-spell', 'sacrifice self', 'tapper-creature', 'card advantage', 'card names', 'tapper']"
+488,Auspicious Arrival,"['alliteration', 'draw', 'giant growth with set mechanic', 'card advantage', 'card names', 'combat trick', 'enlarge', 'giant growth']"
+489,Vein Ripper,"['blood artist ability', 'evasion', 'opponent loses life', 'removal-creature-sacrifice', 'rhystic', 'death trigger', 'dilemma', 'drain life', 'inverted effects', 'leaves battlefield trigger', 'lifegain', 'removal', 'removal-creature']"
+490,Dimir Strandcatcher,"['attack trigger', 'discard matters', 'evasion', 'intervening if clause', 'multiplayer', 'repeatable draw', 'surveil', 'synergy-attacker', 'synergy-mill', 'card advantage', 'draw', 'library manipulation', 'mill', 'mill-self', 'top deck manipulation']"
+491,Sumala Rumblers,"['attack trigger', 'copy-self', 'delayed triggered ability', 'multiplayer', 'synergy-attacker-self', 'temporary token', 'warlord', 'copy', 'creature count matters']"
+492,Vault 101: Birthday Party,"['lifegain', 'quick equip', 'reanimate-aura', 'reanimate-equipment', 'sneak-aura', 'sneak-equipment', 'quick attach', 'reanimate', 'recursion']"
+493,Vault 112: Sadistic Simulation,"['alliteration', 'energy generator', 'free-cast-another', 'freeze-creature', 'tapper-creature', 'card names', 'freeze', 'tapper']"
+494,Vault 11: Voter's Dilemma,"['alliteration', 'draw', 'removal-creature-destroy', 'secretly choose', 'voting', 'card advantage', 'card names', 'removal', 'removal-creature']"
+495,Vault 12: The Necropolis,"['gives pp counters', 'mill-each', 'tribal coupling', 'tribal-mutant', 'tribal-zombie', 'mill', 'mill-self', 'typal', 'typal-creature']"
+496,Vault 13: Dweller's Journey,"['flicker-creature', 'flicker-enchantment', 'flicker-slow', 'lifegain', 'removal-creature-tuck', 'removal-enchantment-tuck', 'top deck manipulation', 'flicker', 'library manipulation', 'removal', 'removal-creature', 'tuck']"
+497,Vault 21: House Gambit,"['ramp', 'rummage', 'card advantage', 'discard outlet', 'red effect']"
+498,Vault 75: Middle School,"['gives pp counters', 'hate-fattie', 'power boost to all', 'sweeper-creature-exile', 'exile', 'sweeper', 'sweeper-creature']"
+499,Vault 87: Forced Evolution,"['draw', 'gives pp counters', 'power matters', 'theft-creature', 'tribal-mutant', 'type change', 'unique-type-exclusion', 'card advantage', 'control changing effects', 'theft', 'typal', 'typal-creature']"
+500,"Loot, the Key to Everything","['impulsive draw', 'rhystic', 'dilemma', 'red effect']"
+501,Lotus Ring,"['adds multiple mana', 'gives vigilance', 'ramp', 'sacrifice outlet-creature', 'sacrifice outlet']"
+502,"Ertha Jo, Frontier Mentor","['copy-ability', 'cycle-otj-draft-signpost', 'cycle-otj-uncommon-legend', 'synergy-activated-ability', 'unique type line', 'copy', 'cycle', 'draft signpost']"
+503,"Lazav, Familiar Stranger","['copy-creature', 'cycle-otj-draft-signpost', 'cycle-otj-uncommon-legend', 'gains pp counters', 'graveyard fuel-creature', 'hate-graveyard', 'synergy-crime', 'copy', 'cycle', 'draft signpost', 'graveyard fuel']"
+504,Loan Shark,"['cantrip', 'intervening if clause', 'punny name', 'second spell matters', 'unique type line', 'virtual vanilla', 'card advantage', 'card names', 'draw', 'flavors of vanilla']"
+505,Metamorphic Blast,"['color change', 'combat trick', 'draw', 'humble', 'spree', 'type change', 'card advantage', 'modal']"
+506,Ruthless Lawbringer,"['cycle-otj-draft-signpost', 'reflexive trigger', 'removal-nonland-destroy', 'sacrifice outlet-creature', 'virtual vanilla', 'cycle', 'draft signpost', 'flavors of vanilla', 'removal', 'removal-artifact', 'removal-creature', 'removal-enchantment', 'removal-nonland', 'removal-planeswalker', 'sacrifice outlet']"
+507,"Arna Kennerüd, Skycaptain","['attack trigger', 'copy-aura', 'copy-equipment', 'counter doubler', 'evasion', 'exponential', 'lifegain', 'synergy-attacker', 'synergy-modified', 'copy', 'counter increaser', 'counters matter', 'synergy-aura', 'synergy-equipment']"
+508,"Ral, Monsoon Mage // Ral, Leyline Prodigy","['alliteration', 'burn any', 'burn player', 'cast trigger-you', 'coin flip', 'cost-reducer-instant-sorcery', 'cycle-mh3-flip-walker', 'draw', 'flicker-self', 'free-cast-another', 'impulsive draw', 'passive ability', 'removal-battle-burn', 'removal-creature-burn', 'removal-planeswalker-burn', 'storm count matters', 'synergy-blue', 'synergy-instant', 'synergy-sorcery', 'burn', 'card advantage', 'card names', 'cast trigger', 'cost reducer', 'cost-reducer-instant', 'cost-reducer-sorcery', 'cycle', 'flicker', 'red effect', 'removal', 'removal-battle', 'removal-creature', 'removal-planeswalker']"
+509,Thriving Skyclaw,"['attack trigger', 'energy generator', 'evasion', 'gains pp counters', 'synergy-attacker-self']"
+510,Layla Hassan,"['regrowth-historic', 'saboteur', 'tribal-assassin', 'card advantage', 'recursion', 'recursion-artifact', 'regrowth', 'regrowth-artifact', 'regrowth-legendary', 'regrowth-saga', 'synergy-artifact', 'synergy-historic', 'synergy-legendary', 'synergy-saga', 'typal', 'typal-creature']"
+511,"Shaun & Rebecca, Agents",-- FAILED --
+512,Shay Cormac,"['aesthetic counter', 'death trigger', 'gains pp counters', 'removes hexproof', 'removes indestructible', 'removes protection', 'removes shroud', 'removes ward', 'leaves battlefield trigger']"
+513,"Sokrates, Athenian Teacher","['damage prevention-player', 'drawback', 'fun ruling', 'gains hexproof', 'repeatable draw', 'selective group hug', 'card advantage', 'draw', 'group hug']"
+514,Hop to It,"['punny name', 'card names']"
+515,Jolly Gerbils,"['repeatable draw', 'synergy-gift', 'unique creature type', 'card advantage', 'draw', 'unique type line']"
+516,Junkblade Bruiser,"['cycle-blb-hybrid', 'cycle']"
+517,"Kastral, the Windcrested","['evasion', 'gives pp counters', 'modal', 'power boost to all', 'reanimate-creature', 'repeatable draw', 'saboteur', 'sneak-creature', 'tribal-bird', 'card advantage', 'draw', 'reanimate', 'recursion', 'recursion-creature', 'typal', 'typal-creature']"
+518,Keen-Eyed Curator,"['gains trample', 'graveyard fuel', 'hate-graveyard']"
+519,Kindlespark Duo,"['burn player', 'cast trigger-you', 'cycle-blb-duo', 'multiple race types', 'pinger', 'synergy-noncreature', 'unique type line', 'untaps self', 'burn', 'cast trigger', 'cycle']"
+520,Season of Gathering,"['cycle-blb-season', 'draw', 'gives pp counters', 'gives trample', 'gives vigilance', 'modal', 'power matters', 'sweeper-artifact-destroy', 'sweeper-enchantment-destroy', 'card advantage', 'cycle', 'sweeper', 'sweeper-artifact', 'sweeper-enchantment']"
+521,Season of Loss,"['cycle-blb-season', 'draw', 'modal', 'morbid', 'opponent loses life', 'removal-creature-sacrifice', 'requires notation', 'sacrifice outlet-creature', 'symmetrical', 'undergrowth', 'card advantage', 'cards in graveyard matter', 'cycle', 'removal', 'removal-creature', 'sacrifice outlet']"
+522,Season of the Bold,"['cast trigger-you', 'cycle-blb-season', 'delayed triggered ability', 'impulsive draw', 'modal', 'ramp', 'removal-creature-burn', 'burn', 'cast trigger', 'cycle', 'red effect', 'removal', 'removal-creature']"
+523,Season of the Burrow,"['cycle-blb-season', 'gives indestructible', 'indestructible counter', 'mana value matters', 'modal', 'reanimate-permanent', 'removal-nonland-exile', 'swap removal', 'cycle', 'keyword counter', 'reanimate', 'reanimate-artifact', 'reanimate-creature', 'reanimate-enchantment', 'reanimate-land', 'reanimate-planeswalker', 'recursion', 'recursion-artifact', 'recursion-creature', 'recursion-enchantment', 'recursion-land', 'recursion-permanent', 'recursion-planeswalker', 'removal', 'removal-artifact', 'removal-creature', 'removal-enchantment', 'removal-nonland', 'removal-planeswalker']"
+524,Season of Weaving,"['copy-artifact', 'copy-creature', 'cycle-blb-season', 'draw', 'faux targeting', 'modal', 'sweeper-nonland-bounce', 'synergy-token', 'card advantage', 'copy', 'cycle', 'sweeper', 'sweeper-artifact', 'sweeper-creature', 'sweeper-enchantment', 'sweeper-nonland', 'sweeper-planeswalker']"
